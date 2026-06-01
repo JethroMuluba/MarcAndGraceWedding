@@ -916,7 +916,7 @@
   { "id": "10", "guestName": "Couple Christian BILWANDAY", "guestTable": "Couronne de l'Héritage" },
   { "id": "11", "guestName": "Couple Daudet MPIANA", "guestTable": "Couronne de l'Héritage" },
   { "id": "12", "guestName": "Couple Hugor PELENDA", "guestTable": "Couronne de l'Héritage" },
-  { "id": "13", "guestName": "Couple Carmy LUKUSA", "guestTable": "Diamant Royal" },
+  { "id": "13", "guestName": "Couple Emmanuel KILENGO", "guestTable": "Royaume de l'Alliance" },
   { "id": "14", "guestName": "Couple KITOKO Baudric", "guestTable": "Diamant Royal" },
   { "id": "15", "guestName": "Couple KALALA Elie", "guestTable": "Saphir Royal" },
   { "id": "16", "guestName": "Couple KAMBAJA Alain", "guestTable": "Saphir Royal" },
@@ -978,7 +978,7 @@
   { "id": "72", "guestName": "Diem et Samy", "guestTable": "Couronne du Lys" },
   { "id": "73", "guestName": "Christopher KELEKELO", "guestTable": "Couronne de la Noblesse" },
   { "id": "74", "guestName": "Prince SHUNGU", "guestTable": "Couronne d'Ébène" },
-  { "id": "75", "guestName": "Bienvenu", "guestTable": "Couronne de la Noblesse" }
+  { "id": "75", "guestName": "Denis", "guestTable": "Couronne d'Ébène" }
 ]
 
 }
