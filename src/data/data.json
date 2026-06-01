@@ -1,0 +1,984 @@
+{
+    "header": [
+        {
+            "id" : 0,
+            "logo" : "https://res.cloudinary.com/dr8ofciki/image/upload/v1752022219/Maintelia%20Technologies/Maintelia_Logo_V3_bg-none_4x_ibhqj7.png",
+            "logo-alt" : "Maintelia Techologies Logo"
+        },
+
+        {
+            "id" : 1,
+            "nav-links" : [
+                {
+                    "id" : 0,
+                    "name" : "ACCUEIL"
+                },
+
+                {
+                    "id" : 1,
+                    "name" : "A PROPOS"
+                },
+
+                {
+                    "id" : 2,
+                    "name" : "RÉALISATIONS"
+                },
+
+                {
+                    "id" : 3,
+                    "name" : "NOS SERVICES"
+                },
+
+                {
+                    "id" : 4,
+                    "name" : "NOTRE ÉQUIPE"
+                },
+
+                {
+                    "id" : 5,
+                    "name" : "BLOG"
+                }
+            ]   
+        }
+    ],
+
+    "footer": [
+        {
+            "logo" : "url",
+            "subtitle" : "Travaillons ensemble sur la réussite de vos projets.",
+            "site-menu" : [
+                {
+                    "id" : 0,
+                    "name" : "Accueil"
+                },
+
+                {
+                    "id" : 1,
+                    "name" : "Accueil"
+                },
+
+                {
+                    "id" : 2,
+                    "name" : "Accueil"
+                },
+
+                {
+                    "id" : 3,
+                    "name" : "Accueil"
+                },
+
+                {
+                    "id" : 4,
+                    "name" : "Accueil"
+                },
+
+                {
+                    "id" : 5,
+                    "name" : "Accueil"
+                },
+
+                {
+                    "id" : 6,
+                    "name" : "Accueil"
+                }
+            ],
+            "contacts" : [
+                {
+                    "phone" : "+243 899 467 398",
+                    "mail" : "contact@enywork.com",
+                    "address" : "Ancienne Galerie Présidentielle, 6è niveau, Local 6B8, Kinshasa/Gombe"
+                }
+            ],
+
+            "social-links" : [
+                {
+                    "id" : 0,
+                    "name" : "Instagram",
+                    "link" : "https://www.instagram.com/"
+                },
+
+                {
+                    "id" : 1,
+                    "name" : "Tiktok",
+                    "link" : "https://www.tiktok.com/"
+                },
+
+                {
+                    "id" : 2,
+                    "name" : "Facebook",
+                    "link" : "https://www.facebook.com/"
+                },
+
+                {
+                    "id" : 3,
+                    "name" : "X",
+                    "link" : "https://www.x.com/"
+                },
+
+                {
+                    "id" : 4,
+                    "name" : "Linkedin",
+                    "link" : "https://www.linkedin.com/"
+                }
+        ]
+    }
+    ],
+
+    "home": [
+        {
+            "id" : 0,
+            "heroSection" : [
+                {
+                    "title" : "Votre Partenaire Technologique pour un Futur Intelligent",
+                    "subtitle" : "Maintelia Technologies accompagne votre entreprise dans sa transformation digitale avec des solutions sur mesure, performantes et innovantes. ",
+                    "cover" : "https://res.cloudinary.com/dr8ofciki/image/upload/v1780158007/MarcAndGr%C3%A2ceWedding/SmallSize/TopImageSmillSize_ihasca.png",
+                    "cover1" : "https://res.cloudinary.com/dr8ofciki/image/upload/v1780158015/MarcAndGr%C3%A2ceWedding/SmallSize/FirstMiddleImageSmillSize_c2zljb.png",
+                    "cover2" : "https://res.cloudinary.com/dr8ofciki/image/upload/v1780158019/MarcAndGr%C3%A2ceWedding/SmallSize/SecondMiddleImageSmillSize_wrvxpy.png",
+                    "cover3" : "https://res.cloudinary.com/dr8ofciki/image/upload/v1780158170/MarcAndGr%C3%A2ceWedding/SmallSize/BottomImageSmillSize_l9uisa.png",
+                    "qrCode" : "https://res.cloudinary.com/dr8ofciki/image/upload/v1780243337/MarcAndGr%C3%A2ceWedding/SmallSize/qr-code_lt9cif.png"
+
+
+                    
+
+                },
+
+                {
+                    "id" :1,
+                    "image" : "https://res.cloudinary.com/dr8ofciki/image/upload/v1751637126/Enywork/HeroImage-YoungGirl_ooeirw.png"
+                },
+
+                {
+                    "id" :2,
+                    "image" : "https://res.cloudinary.com/dr8ofciki/image/upload/v1751642080/Enywork/HeroImage2.0_0_33x_xps9ai.png"
+                }
+            ]
+        },
+
+        {
+            "id" : 1,
+            "aboutUsSection" : [
+                {
+                    "image" : "https://res.cloudinary.com/dr8ofciki/image/upload/v1752026381/Maintelia%20Technologies/couple-a-l-aide-d-un-ordinateur-portable-sur-le-canape-a-la-maison-ensemble_opl6xc.jpg",
+                    "title" : "A propos de nous",
+                    "subtitle" : "Mieux nous connaître, c'est vous donner de l'assurance.",
+                    "text1" : "Maintelia Technologies est une entreprise spécialisée dans l’intégration de solutions numériques intelligentes pour les PME, grandes entreprises, structures publiques et initiatives privées. Notre équipe pluridisciplinaire, passionnée par l’innovation, conçoit des outils digitaux qui répondent aux vrais besoins du terrain.",
+                    "text2" : "Chez Maintelia Technologies, nous croyons que l’innovation est la clé de la croissance. Notre mission : connecter, automatiser et transformer les entreprises à travers des technologies de pointe et un accompagnement stratégique. Basés en RDC, nous intervenons auprès des PME, grandes entreprises et institutions publiques... ",
+                    "text3" : "Concernant le volet académique , ENYWORK a mis en place une plate-forme OPTSOLUTION qui prend en compte le processus des inscriptions en ligne, traçabilité du parcours de l'étudiant, authenticité des documents et l'interconnection avec les banques pour les paiements de divers frais académiques.",
+                    "text4" : "Compte tenu de notre expertrise dans les solutions innovante, nous sommes la première société en RD Congo qui a instauré le système des inscirptions en lugne dans les institutions étatiques et l'interconnection de paiements avec les banques."
+                }
+            ]
+        },
+
+        {
+            "id" :2,
+            "optsolutionBreadge" : [
+                {
+                    "background" : "https://res.cloudinary.com/dr8ofciki/image/upload/v1745423139/Enywork/Background-optsolution.webp",
+                    "logoOptsolutionWhite" : "https://res.cloudinary.com/dr8ofciki/image/upload/v1745423387/Enywork/optsolution-white-logo.png",
+                    "title" : "Une solution sur mesure pour la gestion efficiente des établissements supérieurs et Universitaires."
+                }
+            ]
+        },
+
+        {
+            "id" : 3,
+            "ourRealisationSection" : [
+                {
+                    "title" : "Nos Réalisations",
+                    "subtitle" : "Ce que nous avons accompli dans le passé peut vous inspirer.",
+                    "realizationItems" : [
+                        {
+                            "id": 1,
+                            "image": "https://res.cloudinary.com/dr8ofciki/image/upload/v1745496908/Enywork/optsolution-bg.webp",
+                            "category": "Développement de Logiciels Saas",
+                            "title": "OptSolution",
+                            "link": "https://optsolution.net/"
+                        },
+
+                        {
+                            "id": 2,
+                            "image": "https://res.cloudinary.com/dr8ofciki/image/upload/v1745497080/Enywork/vps-bg.webp",
+                            "category": "Hébergement VPS",
+                            "title": "ISTM Campus",
+                            "link": "https://opsolution.istm-kin.ac.cd/"
+                        },
+
+                        {
+                            "id": 3,
+                            "image": "https://res.cloudinary.com/dr8ofciki/image/upload/v1745497227/Enywork/meeting-house.webp",
+                            "category": "Formation sur le Technologie du Web",
+                            "title": "Min. ESU",
+                            "link": "http://www.minesu.gouv.cd/"
+                        }
+                    ]
+                }
+            ]
+
+        },
+
+        {
+            "id" : 4,
+            "ourServicesSection" : [
+                {
+                    "title" : "Nos Services",
+                    "subtitle" : "Vous offrir un service de qualité est la raison d'être de notre start-up.",
+                    "services" : [
+                        {
+                            "id" : 0,
+                            "icone" : "url",
+                            "service-name" : "Développement de Logiciels Saas",
+                            "service-detail" : "Solution sur mesure personnalisées et adaptées à vos besoins spécifiques."
+                        },
+
+                        {
+                            "id" : 1,
+                            "icone" : "url",
+                            "service-name" : "Développement des Appli. Web et Mobile",
+                            "service-detail" : "Créez des applications performantes et intuitives pour le web et le mobile."
+                        },
+
+                        {
+                            "id" : 2,
+                            "icone" : "url",
+                            "service-name" : "Hébergement VPS Sécurisé",
+                            "service-detail" : "Infrastructures locale performante à Kinshasa."
+                        },
+
+                        {
+                            "id" : 3,
+                            "icone" : "url",
+                            "service-name" : "Gestion des Données ",
+                            "service-detail" : "Solutions de stockage et analyse de données."
+                        },
+
+                        {
+                            "id" : 4,
+                            "icone" : "url",
+                            "service-name" : "Audit et Consulting",
+                            "service-detail" : "Optimisez votre stratégie digitale avec une expertise sur mesure."
+                        },
+
+                        {
+                            "id" : 5,
+                            "icone" : "url",
+                            "service-name" : "Formation sur les Technologies du Web",
+                            "service-detail" : "Accompagnement dans votre transition numérique."
+                        }
+                    ]
+                }
+            ]
+        },
+
+        {
+            "id" : 5,
+            "ourTeam" : [
+                {
+                    "title" : "Notre Équipe",
+                    "subtitle" : "Rencontrer nos spécialistes vous donne un aperçu d’une réalisation réussie de vos projets."
+                }
+            ]
+        },
+
+        {
+            "id" : 6,
+            "statisticBreadge" : [
+                {
+                    "title" : "Des solutions d'affaires élaborées avec un objectif et une stratégie",
+                    "subtitle" : "Nous développons des solutions numériques adaptées à vos besoins spécifiques pour optimiser vos processus d'affaires.",
+                    "leftTitle" : "La bonne solution pour votre entreprise",
+                    "cover" : "https://res.cloudinary.com/dr8ofciki/image/upload/v1745856936/Enywork/statistics-bg.webp",
+                    "statistic" : [
+                        {
+                            "id" : 0,
+                            "statistic-name" : "Hébergement VSP Sécurisé",
+                            "pourcent" : "80%"
+                        },
+
+                        {
+                            "id" : 1,
+                            "statistic-name" : "Développement de Logiciels Saas",
+                            "pourcent" : "90%"
+                        },
+
+                        {
+                            "id" : 2,
+                            "statistic-name" : "Gestion des Données",
+                            "pourcent" : "85%"
+                        },
+
+                        {
+                            "id" : 3,
+                            "statistic-name" : "Audit et Consulting",
+                            "pourcent" : "70%"
+                        }
+
+                    ]
+                }
+            ]
+        },
+
+        {
+            "id" : 7,
+            "our-partners" : [
+                {
+                    "title" : "Ils nous ont fait confiance",
+                    "partners-logo" : [
+                        {
+                            "id" : 0,
+                            "logo" : "url"
+                        },
+
+                        {
+                            "id" : 1,
+                            "logo" : "url"
+                        },
+
+                        {
+                            "id" : 2,
+                            "logo" : "url"
+                        },
+
+                        {
+                            "id" : 3,
+                            "logo" : "url"
+                        },
+
+                        {
+                            "id" : 4,
+                            "logo" : "url"
+                        },
+
+                        {
+                            "id" : 5,
+                            "logo" : "url"
+                        },
+
+                        {
+                            "id" : 6,
+                            "logo" : "url"
+                        },
+
+                        {
+                            "id" : 7,
+                            "logo" : "url"
+                        },
+
+                        {
+                            "id" : 8,
+                            "logo" : "url"
+                        },
+
+                        {
+                            "id" : 9,
+                            "logo" : "url"
+                        },
+
+                        {
+                            "id" : 10,
+                            "logo" : "url"
+                        },
+
+                        {
+                            "id" : 11,
+                            "logo" : "url"
+                        },
+
+                        {
+                            "id" : 12,
+                            "logo" : "url"
+                        }
+                    ]
+                }
+            ]
+        },
+
+        {
+            "id" : 8,
+            "testimonialSection" : [
+                {
+                    "title" : "Ce qu'ils disent de nous",
+                    "subtitle" : "Des témoignages forts et authentiques provenant des grandes autorités de ce pays et d'ailleurs.",
+                    "testimonial" : [
+                        {
+                            "id" : 0,
+                            "name" : "Yusuf Heri",
+                            "role" : "CEO & Développeur Web Full-Stack",
+                            "image" : "https://res.cloudinary.com/dr8ofciki/image/upload/v1745853594/Enywork/yusuf-heri-profile.jpg",
+                            "quote" : "Une expérience exceptionnelle ! Leur capacité à s'adapter à nos besoins spécifiques a été un atout majeur dans notre croissance rapide.",
+                            "highlighted" : true
+                        },
+
+                        {
+                            "id" : 1,
+                            "name" : "Franck Mbuyi",
+                            "role" : "CTO & Développeur Mobile",
+                            "image" : "https://res.cloudinary.com/dr8ofciki/image/upload/v1745853771/Enywork/franck-mbuyi-profile.png",
+                            "quote" : "Une expérience exceptionnelle ! Leur capacité à s'adapter à nos besoins spécifiques a été un atout majeur dans notre croissance rapide.",
+                            "highlighted" : false
+                        },
+
+                        {
+                            "id" : 2,
+                            "name" : "Jethro Muluba",
+                            "role" : "Ui & Ux et Dev Web Full-Stack",
+                            "image" : "https://res.cloudinary.com/dr8ofciki/image/upload/v1745852687/Enywork/jethro-muluba-profile.png",
+                            "quote" : "Une expérience exceptionnelle ! Leur capacité à s'adapter à nos besoins spécifiques a été un atout majeur dans notre croissance rapide.",
+                            "highlighted" : true
+                        }
+                    ]
+                }
+            ]
+        },
+
+        {
+            "id" : 9,
+            "lastBlogSection" : [
+                {
+                    "title" : "Derniers Actualités",
+                    "subtitle" : "Suivez nos actualités pour rester informé de nos événements et bien plus encore.",
+                    "blog" : [
+                        {
+                            "id" : 0,
+                            "image" : "https://res.cloudinary.com/dr8ofciki/image/upload/v1746010546/Enywork/blog-1.jpg",
+                            "image2" : "https://res.cloudinary.com/dr8ofciki/image/upload/v1745423139/Enywork/Background-optsolution.webp",
+                            "title" : "Les derniers tendances en développement web 2025",
+                            "subtitle" : "Découvrez les technologie et frameworks qui domineront le développement web cette année...",
+                            "avatar" : "https://res.cloudinary.com/dr8ofciki/image/upload/v1745853594/Enywork/yusuf-heri-profile.jpg",
+                            "name" : "Yusuf Heri",
+                            "role" : "CEO, Enywork",
+                            "dAte" : "09 Mai 2025",
+                            "readTime" : "12",
+                            "catchphrase" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                            "textOfPart1": [
+                                {
+                                    "id" : 0,
+                                    "text" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia mollit anim id est laborum."
+                                },
+
+                                {
+                                    "id" : 1,
+                                    "text" : "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+                                }
+                            ],
+
+                            "textOfPart2": [
+                                {
+                                    "id" : 0,
+                                    "text" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia mollit anim id est laborum."
+                                },
+
+                                {
+                                    "id" : 1,
+                                    "text" : "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+                                }
+                            ],
+
+                            "keyPoint" : [
+                                {
+                                    "id" : 0,
+                                    "point" : "Point clé numéro 1 sur la stratégie digitale"
+                                },
+
+                                {
+                                    "id" : 1,
+                                    "point" : "Point clé numéro 2 sur l’optimisation"
+                                },
+
+                                {
+                                    "id" : 2,
+                                    "point" : "Point clé numéro 3 sur les résultats"
+                                }
+                            ]
+
+                        },
+
+                        {
+                            "id" : 1,
+                            "image" : "https://res.cloudinary.com/dr8ofciki/image/upload/v1746010546/Enywork/blog-2.jpg",
+                            "title" : "Cloud Computing: Les meilleures pratiques",
+                            "subtitle" : "Optimisez votre infrastructure cloud avec nos conseil d'experts...",
+                            "avatar" : "https://res.cloudinary.com/dr8ofciki/image/upload/v1745853771/Enywork/franck-mbuyi-profile.png",
+                            "name" : "Franck Mbuyi",
+                            "role" : "CTO, Enywork",
+                            "dAte" : "22 Mars 2025",
+                            "readTime" : "10",
+                            "catchphrase" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                            "textOfPart1": [
+                                {
+                                    "id" : 0,
+                                    "text" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia mollit anim id est laborum."
+                                },
+
+                                {
+                                    "id" : 1,
+                                    "text" : "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+                                }
+                            ],
+
+                            "textOfPart2": [
+                                {
+                                    "id" : 0,
+                                    "text" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia mollit anim id est laborum."
+                                },
+
+                                {
+                                    "id" : 1,
+                                    "text" : "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+                                }
+                            ],
+
+                            "keyPoint" : [
+                                {
+                                    "id" : 0,
+                                    "point" : "Point clé numéro 1 sur la stratégie digitale"
+                                },
+
+                                {
+                                    "id" : 1,
+                                    "point" : "Point clé numéro 2 sur l’optimisation"
+                                },
+
+                                {
+                                    "id" : 2,
+                                    "point" : "Point clé numéro 3 sur les résultats"
+                                }
+                            ]
+                        },
+
+                        {
+                            "id" : 2,
+                            "image" : "https://res.cloudinary.com/dr8ofciki/image/upload/v1746010546/Enywork/blog-3.jpg",
+                            "title" : "Guide complet du Design System en 2025",
+                            "subtitle" : "Comment créez et maintenir un design system efficace pour votre équipe...",
+                            "avatar" : "https://res.cloudinary.com/dr8ofciki/image/upload/v1745852687/Enywork/jethro-muluba-profile.png",
+                            "name" : "Jethro Muluba",
+                            "role" : "Ui/Ux Designer, Enywork",
+                            "dAte" : "15 Janvier 2025",
+                            "readTime" : "15",
+                            "catchphrase" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                            "textOfPart1": [
+                                {
+                                    "id" : 0,
+                                    "text" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia mollit anim id est laborum."
+                                },
+
+                                {
+                                    "id" : 1,
+                                    "text" : "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+                                }
+                            ],
+
+                            "textOfPart2": [
+                                {
+                                    "id" : 0,
+                                    "text" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia mollit anim id est laborum."
+                                },
+
+                                {
+                                    "id" : 1,
+                                    "text" : "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+                                }
+                            ],
+
+                            "keyPoint" : [
+                                {
+                                    "id" : 0,
+                                    "point" : "Point clé numéro 1 sur la stratégie digitale"
+                                },
+
+                                {
+                                    "id" : 1,
+                                    "point" : "Point clé numéro 2 sur l’optimisation"
+                                },
+
+                                {
+                                    "id" : 2,
+                                    "point" : "Point clé numéro 3 sur les résultats"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+
+        {
+            "id" : 10,
+            "newsletterBreadge" : [
+                {
+                    "cover" : "https://res.cloudinary.com/dr8ofciki/image/upload/v1746027673/Enywork/news-letter-bg.png",
+                    "title" : "Restez Connecter avec nous",
+                    "icone" : "https://res.cloudinary.com/dr8ofciki/image/upload/v1746028293/Enywork/icone-box-letter.png",
+                    "subtitle" : "Abonnez-vous à notre newsletter pour recevoir les dernières actualités et mises à jour directement dans votre boîte de réception.",
+                    "warning" : "Votre adresse email est utilisée par Enywork SARL, en qualité de responsable de traitement, à des fins de prospection commerciale (nouveautés, actualités, services...). Pour connaître notre Politique de données personnelles et en savoir plus sur vos droits, veuillez vous rendre sur la page Protection des données personnelles",
+                    "button" : "S'ABONNER"
+                }
+            ]
+        }
+    ],
+
+    "about" : [
+        {
+            "id" : 0,
+            "hero" : [
+                {
+                    "id" :0,
+                    "cover" : "https://res.cloudinary.com/dr8ofciki/image/upload/v1751897530/Enywork/about-image.jpg",
+                    "pattern" : "https://res.cloudinary.com/dr8ofciki/image/upload/v1744118684/Enywork/hero-cover-v1.webp",
+                    "title" : "A Propos de Nous",
+                    "subTitle" : "Mieux nous connaître, c'est vous donner de l'assurance."
+                }
+            ]
+        },
+
+        {
+            "id" : 1,
+            "image" : "https://res.cloudinary.com/dr8ofciki/image/upload/v1745409097/Enywork/enywork-about-image.webp",
+            "title" : "Notre Histoire",
+            "subTitle" :"Mieux nous connaître, c'est vous donner de l'assurance.",
+            "history" : [
+                {
+                    "id" :0,
+                    "text1" : "ENYWORK, start-up congolais, spécialisée dans la conception et le développement de logiciels sur mesure, implantée en RDC, développe les activités autour des différentes prestations informatiques dédiées aux entreprises et autres (organisation, établissement supérieur et universitaire et particulier)."
+                },
+
+                {
+                    "id" :1,
+                    "text2" : "Créée depuis le mois de novembre 2017, la start-up ENYWORK vise à connecter les institutions universitaires autour d’une base de données commune facilitant le contrôle d’authenticité des documents académiques livrées et la traçabilité du parcours de l’étudiant."
+                },
+
+                {
+                    "id" :2,
+                    "text3" : "Concernant le volet académique , ENYWORK a mis en place une plate-forme OPTSOLUTION qui prend en compte le processus des inscriptions en ligne, traçabilité du parcours de l'étudiant, authenticité des documents et l'interconnection avec les banques pour les paiements de divers frais académiques."
+                },
+
+                {
+                    "id" :3,
+                    "text4" : "Compte tenu de notre expertrise dans les solutions innovante, nous sommes la première société en RD Congo qui a instauré le système des inscirptions en lugne dans les institutions étatiques et l'interconnection de paiements avec les banques."
+                }
+            ]
+        },
+
+        {
+            "id" : 2,
+            "image" : "https://res.cloudinary.com/dr8ofciki/image/upload/v1745409097/Enywork/enywork-about-image.webp",
+            "title" : "Notre Mission",
+            "subTitle" :"Transformer vos besoins en solutions numériques concrètes.",
+            "mission" : [
+                {
+                    "id" :0,
+                    "text1" : "Nous offrons à nos différents partenaires les solutions innovantes et efficaces qui repondent aux besoins réels de la société Congolaise et d'ailleurs visant la réussite de leurs projets de numérisation grâce à notre expertise reconnue dans le monde numérique."
+                },
+
+                {
+                    "id" :1,
+                    "text2" : "Nous développond des solutions numériques selon les aspirations ou besoins exprimés par nos partenaires. "
+                }
+            ]
+        },
+
+        {
+            "id" : 3,
+            "image" : "https://res.cloudinary.com/dr8ofciki/image/upload/v1745409097/Enywork/enywork-about-image.webp",
+            "title" : "Notre Vision",
+            "subTitle" :"Mieux nous connaître, c'est vous donner de l'assurance.",
+            "vision" : [
+                {
+                    "id" :0,
+                    "text1" : "ENYWORK, start-up congolais, spécialisée dans la conception et le développement de logiciels sur mesure, implantée en RDC, développe les activités autour des différentes prestations informatiques dédiées aux entreprises et autres (organisation, établissement supérieur et universitaire et particulier)."
+                },
+
+                {
+                    "id" :1,
+                    "text2" : "Créée depuis le mois de novembre 2017, la start-up ENYWORK vise à connecter les institutions universitaires autour d’une base de données commune facilitant le contrôle d’authenticité des documents académiques livrées et la traçabilité du parcours de l’étudiant."
+                }
+            ]
+        },
+
+        {
+            "id" : 4,
+            "title" : "Nos Valeurs",
+            "subTitle" : "Excellence, Simplicité, Détermination, Innovation ",
+            "textExcellence" : "L'Excellence guide chacun de nos projets vers des standards élevés et des résultats durables. ",
+            "textSimplicité" : "La Simplicité est au cœur de nos solutions pour garantir clarté, efficacité et accessibilité",
+            "textDétermination" : "La Détermination nous pousse à relever chaque défi avec rigueur et engagement.",
+            "textInnovation" : "L'Innovation alimente notre capacité à imaginer des réponses nouvelles aux besoins numériques actuels.",
+            "values" : [
+                {
+                    "value1" : "Excellence",
+                    "value2" : "Simplicité",
+                    "value3" : "Détermination",
+                    "value4" : "Innovation"  
+                }
+            ]
+        },
+
+        {
+            "id" : 5,
+            "counter" : [
+                {
+                    "id" :0,
+                    "counterTitle" : "ANNÉES D'EXPÉRIENCES",
+                    "counterNumber" : 9
+                },
+
+                {
+                    "id" :1,
+                    "counterTitle" : "PROJETS RÉALISÉS",
+                    "counterNumber" : 12
+                },
+
+                {
+                    "id" :2,
+                    "counterTitle" : "TOTAL CLIENTS",
+                    "counterNumber" : 12
+                },
+
+                {
+                    "id" :3,
+                    "counterTitle" : "PRIX REMPORTÉ",
+                    "counterNumber" : 9
+                }
+            ]
+        },
+
+        {
+            "id" : 6,
+            "brochureDownloader" : [
+                {
+                    "title" : "Curieux d’en savoir plus sur nous ?",
+                    "subTitle" : "Téléchargez notre brochure !"
+                }
+            ]
+        },
+
+        {
+            "id" : 7,
+            "title" : "Notre Galerie",
+            "subTitle" : "Découvrez nos réalisations, notre équipe passionnée et les moments forts qui font vibrer notre agence au quotidien.",
+            "images" : [
+                {
+                    "id" : 0,
+                    "src" : "https://res.cloudinary.com/dr8ofciki/image/upload/v1746010546/Enywork/blog-1.jpg",
+                    "alt" : "Gallery Image"
+                },
+
+                {
+                    "id" : 1,
+                    "src" : "https://res.cloudinary.com/dr8ofciki/image/upload/v1746010543/Enywork/blog-3.jpg",
+                    "alt" : "Gallery Image"
+                },
+
+                {
+                    "id" : 2,
+                    "src" : "https://res.cloudinary.com/dr8ofciki/image/upload/v1746010543/Enywork/blog-2.jpg",
+                    "alt" : "Gallery Image"
+                },
+
+                {
+                    "id" : 3,
+                    "src" : "https://res.cloudinary.com/dr8ofciki/image/upload/v1745856936/Enywork/statistics-bg.webp",
+                    "alt" : "Gallery Image"
+                }
+            ]
+        }
+
+    ],
+
+    "realizations" : [
+        {
+            "id" : 0,
+            "hero" : [
+                {
+                    "id" : 0,
+                    "cover": "https://res.cloudinary.com/dr8ofciki/image/upload/v1751899930/Enywork/Realization-Image.jpg",
+                    "title" : "Nos Réalisations",
+                    "subTitle" : "Ce que nous avons accompli dans le passé peut vous inspirer."
+                }
+            ]
+
+        }
+
+
+    ],
+
+    "blogs" : [
+        {
+            "id":0,
+            "hero" :[
+                {
+                    "title" : "Nos Actualités",
+                    "subTitle" : "Suivez nos actualités pour rester informé de nos événements et bien plus encore.",
+                    "cover" :"https://res.cloudinary.com/dr8ofciki/image/upload/v1744118684/Enywork/hero-cover-v1.webp",
+                    "pattern":"https://res.cloudinary.com/dr8ofciki/image/upload/v1744118684/Enywork/hero-cover-v1.webp"
+                }
+            ]
+        }
+    ],
+    "services" : [
+        {
+            "id" : 0,
+            "title" : "Nos Services",
+            "subTitle" : "Vous offrir un service de qualité est la raison d’être de notre start-up.",
+            "cover" : "https://res.cloudinary.com/dr8ofciki/image/upload/v1751900494/Enywork/Services-Image.jpg"
+        }
+    ],
+
+    "team" : [
+        {
+            "id": 0,
+            "hero" :[
+                {
+                    "title" : "Notre Équipe",
+                    "subTitle" : "Rencontrer nos spécialistes vous donne un aperçu d’une réalisation réussie de vos projets."
+                }
+            ]
+        },
+
+        {
+            "id": 1,
+            "intro" : [
+                {
+                    "title" : "Derrière chaque innovation, une équipe passionnée !",
+                    "subTitle" : "Notre équipe d’experts en développement, design et stratégie digitale façonne l’avenir numérique avec créativité et excellence."
+                }
+            ]
+        }
+    ],
+
+    "iconeLogo" : [
+        {
+            "id":0,
+            "redIcone" : "https://res.cloudinary.com/dr8ofciki/image/upload/v1748614659/Enywork/E-logo-red.webp"
+        },
+
+        {
+            "id":1,
+            "redIcone" : "https://res.cloudinary.com/dr8ofciki/image/upload/v1748614660/Enywork/E-logo-white.webp"
+        }
+    ],
+
+    "pattern" : [
+        {
+            "id": 0,
+            "pattern" : "https://res.cloudinary.com/dr8ofciki/image/upload/v1748616126/Enywork/Pattern-Bg.png"
+        }
+    ],
+
+    "contact" : [
+        {
+            "id" : 0,
+            "title" : "Contactez-Nous",
+            "subTitle" : "Contactez-nous pour toute question ou demande de service."
+        }
+    ],
+
+    "contactForm" : [
+    {
+        "id" : 0,
+        "label" : "Nom Complet",
+        "errorMessage" : "Name must have at least 3 letters"
+    },
+
+    {
+        "id" : 2,
+        "label" : "Téléphone",
+        "errorMessage" : "Phone is required"
+    },
+
+    {
+        "id" : 3,
+        "label" : "Email",
+        "errorMessage" : "Email must have at least 5 letters"
+    },
+
+    {
+        "id" : 4,
+        "label" : "Message",
+        "errorMessage" : "You must message me to get more informations"
+    },
+
+    {
+        "buttonName" : "ENVOYER LE MESSAGE"
+    }
+],
+
+"guests": [
+  { "id": "1", "guestName": "Consolate, Merphy et Regina", "guestTable": "Couronne d'Or" },
+  { "id": "2", "guestName": "Couple KABEDI Yve", "guestTable": "Couronne d'Excellence" },
+  { "id": "3", "guestName": "Djesy", "guestTable": "Couronne de la Famille" },
+  { "id": "4", "guestName": "Sarah ELAMENJI", "guestTable": "Couronne de la Famille" },
+  { "id": "5", "guestName": "Marius KABEMBA", "guestTable": "Couronne de la Famille" },
+  { "id": "6", "guestName": "Grace BILWANDAYI", "guestTable": "Couronne de la Famille" },
+  { "id": "7", "guestName": "Couple MELIA", "guestTable": "Couronne de la Famille" },
+  { "id": "8", "guestName": "Couple Herve KALAMBA", "guestTable": "Couronne de l'Héritage" },
+  { "id": "9", "guestName": "Couple Fabrice MPUTU", "guestTable": "Couronne de l'Héritage" },
+  { "id": "10", "guestName": "Couple Christian BILWANDAY", "guestTable": "Couronne de l'Héritage" },
+  { "id": "11", "guestName": "Couple Daudet MPIANA", "guestTable": "Couronne de l'Héritage" },
+  { "id": "12", "guestName": "Couple Hugor PELENDA", "guestTable": "Couronne de l'Héritage" },
+  { "id": "13", "guestName": "Couple Carmy LUKUSA", "guestTable": "Diamant Royal" },
+  { "id": "14", "guestName": "Couple KITOKO Baudric", "guestTable": "Diamant Royal" },
+  { "id": "15", "guestName": "Couple KALALA Elie", "guestTable": "Saphir Royal" },
+  { "id": "16", "guestName": "Couple KAMBAJA Alain", "guestTable": "Saphir Royal" },
+  { "id": "17", "guestName": "Papa Peguy LUPEMBA", "guestTable": "Saphir Royal" },
+  { "id": "18", "guestName": "Peter LUFULUABO", "guestTable": "Saphir Royal" },
+  { "id": "19", "guestName": "Gloire", "guestTable": "Royaume de l'Alliance" },
+  { "id": "20", "guestName": "Lysia", "guestTable": "Royaume de l'Alliance" },
+  { "id": "21", "guestName": "Daniel KIYALA", "guestTable": "Royaume de l'Alliance" },
+  { "id": "22", "guestName": "Jonas KAZETA", "guestTable": "Royaume de l'Alliance" },
+  { "id": "23", "guestName": "Couple Yvon Grace KILESHE", "guestTable": "Royaume de l'Alliance" },
+  { "id": "24", "guestName": "Gaëlle KAYAKEZ, Hermic et Yolande", "guestTable": "Royaume de la Joie" },
+  { "id": "25", "guestName": "Maman GEORGINE", "guestTable": "Royaume de la Joie" },
+  { "id": "26", "guestName": "Sael OBOTELA", "guestTable": "Trône d'Harmonie" },
+  { "id": "27", "guestName": "Harmonie", "guestTable": "Trône d'Harmonie" },
+  { "id": "28", "guestName": "Elie MULANGA", "guestTable": "Trône d'Harmonie" },
+  { "id": "29", "guestName": "Christa", "guestTable": "Trône d'Harmonie" },
+  { "id": "30", "guestName": "Gypsyana DOLIVEIRA", "guestTable": "Royaume de la Joie" },
+  { "id": "31", "guestName": "Azaria", "guestTable": "Trône d'Harmonie" },
+  { "id": "32", "guestName": "Emmanuel TSHIZANGA", "guestTable": "Trône d'Harmonie" },
+  { "id": "33", "guestName": "Josué KALIBA", "guestTable": "Trône d'Harmonie" },
+  { "id": "34", "guestName": "Cédric MUTOMBO", "guestTable": "Royaume de l'Espérance" },
+  { "id": "35", "guestName": "Serge BANSIMBA", "guestTable": "Royaume de l'Espérance" },
+  { "id": "36", "guestName": "Elie MPELA", "guestTable": "Royaume de l'Espérance" },
+  { "id": "37", "guestName": "SIDO", "guestTable": "Royaume de l'Espérance" },
+  { "id": "38", "guestName": "Syntiche KANIONGA", "guestTable": "Royaume de l'Espérance" },
+  { "id": "39", "guestName": "Chris KONA", "guestTable": "Royaume de l'Espérance" },
+  { "id": "40", "guestName": "Sarah", "guestTable": "Royaume de l'Espérance" },
+  { "id": "41", "guestName": "Salem KHOJI", "guestTable": "Trône d'Harmonie" },
+  { "id": "42", "guestName": "Don TAMBA", "guestTable": "Royaume de la Joie" },
+  { "id": "43", "guestName": "Papa lelo", "guestTable": "Couronne de la Grace" },
+  { "id": "44", "guestName": "Dorcas Shabani", "guestTable": "Royaume de la Foi" },
+  { "id": "45", "guestName": "couple filia et Patrick", "guestTable": "Royaume de la Foi" },
+  { "id": "46", "guestName": "Marthe et priscille", "guestTable": "Royaume de la Foi" },
+  { "id": "47", "guestName": "Michaelle et Noella", "guestTable": "Royaume de la Foi" },
+  { "id": "48", "guestName": "Dianne", "guestTable": "Royaume de la Foi" },
+  { "id": "49", "guestName": "Dorcas Akendi", "guestTable": "Royaume de la Foi" },
+  { "id": "50", "guestName": "Gloria Akendi", "guestTable": "Royaume de la Foi" },
+  { "id": "51", "guestName": "Evodie masaka et Dorcas yalala", "guestTable": "Royaume de la Paix" },
+  { "id": "52", "guestName": "couple Rebeca", "guestTable": "Royaume de la Paix" },
+  { "id": "53", "guestName": "couple Persila", "guestTable": "Royaume de la Paix" },
+  { "id": "54", "guestName": "Becky were et nadine", "guestTable": "Royaume de la Paix" },
+  { "id": "55", "guestName": "Vanessa liwoke", "guestTable": "Royaume de la Paix" },
+  { "id": "56", "guestName": "Michael", "guestTable": "Royaume de la Foi" },
+  { "id": "57", "guestName": "Anta", "guestTable": "Couronne d'Ébène" },
+  { "id": "58", "guestName": "Couple grâce", "guestTable": "Couronne d'Ébène" },
+  { "id": "59", "guestName": "Christelle Mbayi", "guestTable": "Couronne du Royaume" },
+  { "id": "60", "guestName": "Grace ngakwe et Linda", "guestTable": "Royaume de la Grâce" },
+  { "id": "61", "guestName": "Dr Hugo et Doris", "guestTable": "Royaume de la Grâce" },
+  { "id": "62", "guestName": "chancevie et Deborah mbuyi", "guestTable": "Royaume de la Grâce" },
+  { "id": "63", "guestName": "kevine Brown", "guestTable": "Couronne du Royaume" },
+  { "id": "64", "guestName": "heritier BAUMA", "guestTable": "Couronne de la Noblesse" },
+  { "id": "65", "guestName": "Asumani et Nathalie", "guestTable": "Couronne Imperial" },
+  { "id": "66", "guestName": "fadette", "guestTable": "Couronne de la Noblesse" },
+  { "id": "67", "guestName": "Patricia", "guestTable": "Couronne du Lys" },
+  { "id": "68", "guestName": "Agath et Christelle", "guestTable": "Couronne d'Ébène" },
+  { "id": "69", "guestName": "couple Dorine", "guestTable": "Couronne de la Prospérité" },
+  { "id": "70", "guestName": "couple Sephora", "guestTable": "Couronne de la Prospérité" },
+  { "id": "71", "guestName": "couple Patricia", "guestTable": "Couronne de la Prospérité" },
+  { "id": "72", "guestName": "Diem et Samy", "guestTable": "Couronne du Lys" },
+  { "id": "73", "guestName": "Christopher KELEKELO", "guestTable": "Couronne de la Noblesse" },
+  { "id": "74", "guestName": "Prince SHUNGU", "guestTable": "Couronne d'Ébène" },
+  { "id": "75", "guestName": "Bienvenu", "guestTable": "Couronne de la Noblesse" }
+]
+
+}
