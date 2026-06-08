@@ -979,7 +979,22 @@
   { "id": "73", "guestName": "Christopher KELEKELO", "guestTable": "Couronne de la Noblesse" },
   { "id": "74", "guestName": "Prince SHUNGU", "guestTable": "Couronne d'Ébène" },
   { "id": "75", "guestName": "Denise", "guestTable": "Couronne d'Ébène" },
-  { "id": "76", "guestName": "Trésor Sossa MATONDO", "guestTable": "Royaume de l'Espérance" }
+  { "id": "76", "guestName": "Trésor Sossa MATONDO", "guestTable": "Royaume de l'Espérance" },
+  { "id": "77", "guestName": "Couple Olivier et Thérèse MBUYI", "guestTable": "Couronne de la Noblesse" },
+  { "id": "78", "guestName": "Pasco LOTEMBA", "guestTable": "Couronne de la Noblesse" },
+  { "id": "79", "guestName": "Gucci DIOMI", "guestTable": "Couronne de la Noblesse" },
+  { "id": "80", "guestName": "Couple Dorine", "guestTable": "Couronne de la Prospérité" },
+  { "id": "81", "guestName": "Couple Sephorah", "guestTable": "Couronne de la Prospérité" },
+  { "id": "82", "guestName": "Couple Patricia", "guestTable": "Couronne de la Prospérité" },
+  { "id": "83", "guestName": "Judith MALOWA", "guestTable": "Couronne D’alliance" },
+  { "id": "84", "guestName": "ANGE MALOWA", "guestTable": "CCouronne D’alliance" },
+  { "id": "85", "guestName": "SYANE NTUALA", "guestTable": "Couronne D’alliance" },
+     { "id": "86", "guestName": "ZOUZOU", "guestTable": "Couronne D’alliance" },
+  { "id": "87", "guestName": "GRÂCE SITU", "guestTable": "Couronne D’alliance" },
+  { "id": "88", "guestName": "JOLIE SITU", "guestTable": "Couronne D’alliance" },
+  { "id": "89", "guestName": "LYSE", "guestTable": "Couronne D’alliance" },
+  { "id": "90", "guestName": "Couple ESPE", "guestTable": "CCouronne D’alliance" },
+  { "id": "91", "guestName": "⁠Couple Annya et Hervé", "guestTable": "Couronne D’alliance" }
 ]
 
 }
