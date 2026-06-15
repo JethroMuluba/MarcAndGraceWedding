@@ -987,14 +987,22 @@
   { "id": "81", "guestName": "Couple Sephorah", "guestTable": "Couronne de la Prospérité" },
   { "id": "82", "guestName": "Couple Patricia", "guestTable": "Couronne de la Prospérité" },
   { "id": "83", "guestName": "Judith MALOWA", "guestTable": "Couronne D’alliance" },
-  { "id": "84", "guestName": "ANGE MALOWA", "guestTable": "CCouronne D’alliance" },
+  { "id": "84", "guestName": "ANGE MALOWA", "guestTable": "Couronne D’alliance" },
   { "id": "85", "guestName": "SYANE NTUALA", "guestTable": "Couronne D’alliance" },
-     { "id": "86", "guestName": "ZOUZOU", "guestTable": "Couronne D’alliance" },
+  { "id": "86", "guestName": "ZOUZOU", "guestTable": "Couronne D’alliance" },
   { "id": "87", "guestName": "GRÂCE SITU", "guestTable": "Couronne D’alliance" },
   { "id": "88", "guestName": "JOLIE SITU", "guestTable": "Couronne D’alliance" },
   { "id": "89", "guestName": "LYSE", "guestTable": "Couronne D’alliance" },
-  { "id": "90", "guestName": "Couple ESPE", "guestTable": "CCouronne D’alliance" },
-  { "id": "91", "guestName": "⁠Couple Annya et Hervé", "guestTable": "Couronne D’alliance" }
+  { "id": "90", "guestName": "Couple ESPE", "guestTable": "Couronne D’alliance" },
+  { "id": "91", "guestName": "⁠Couple Annya et Hervé", "guestTable": "Couronne D’alliance" },
+  { "id": "92", "guestName": "Jean Elesse", "guestTable": "Couronne Impériale" },
+  { "id": "93", "guestName": "TJ", "guestTable": "Couronne Impériale" },
+  { "id": "94", "guestName": "Tonton Guy", "guestTable": "Couronne Impériale" },
+  { "id": "95", "guestName": "⁠Ya Marlène", "guestTable": "Couronne D’alliance" },
+  { "id": "96", "guestName": "Kovo Makengo", "guestTable": "Couronne D’alliance" },
+  { "id": "97", "guestName": "Arlette", "guestTable": "Couronne D’alliance" },
+  { "id": "98", "guestName": "Couple Annya et Hervé", "guestTable": "Couronne D’aînés" },
+  { "id": "99", "guestName": "Tychique BOPINDA", "guestTable": "Royaume de l’alliance" }
 ]
 
 }
